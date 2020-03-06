@@ -19,7 +19,7 @@ public class Main {
         System.out.println("insert #");
         number=keyboard.nextInt();
 
-        System.out.println("number is odd:" + (number % 2 != 0));
+        System.out.println("number is odd: " + (number % 2 != 0));
 
 
 
